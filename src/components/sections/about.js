@@ -131,32 +131,28 @@ const About = () => {
   useEffect(() => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
-
-  const skills = ['JavaScript (ES6+)', 'HTML & (S)CSS', 'React', 'Vue', 'Node.js', 'WordPress'];
+  
+  const skills = ['Creación de contenido para editoriales de lifestyle', 'Creación de contenido para redes sociales y blogs', 'Búsqueda de información para la maquetación de revistas', 'Organización y trabajo en equipo', 'Contacto directo con los clientes de diversas marcas', 'Aprendizaje constante en cada trabajo para mejorar día a día'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
-      <h2 className="numbered-heading">About Me</h2>
+      <h2 className="numbered-heading">Sobre mí</h2>
 
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Brittany, a software engineer based in Boston, MA.</p>
-
             <p>
-              I enjoy creating things that live on the internet, whether that be websites,
-              applications, or anything in between. My goal is to always build products that provide
-              pixel-perfect, performant experiences.
+            Me apasiona escribir para diferentes medios de comunicación tanto digitales como impresos. 
+            Llevo años trabajando como periodista para diferentes revistas tanto nacionales como internacionales. 
+            Ahora también me dedico a crear contenido para diferentes redes sociales y blogs con gran variedad de temas.
             </p>
 
             <p>
-              Shortly after graduating from{' '}
-              <a href="https://www.ccis.northeastern.edu">Northeastern University</a>, I joined the
-              engineering team at <a href="https://www.upstatement.com">Upstatement</a> where I work
-              on a wide variety of interesting and meaningful projects on a daily basis.
+            He trabajado en productoras de agencias, he escrito para revistas de alta joyería y relojería y 
+            llevo las redes sociales a una importante joyería en Gran Canaria.
             </p>
 
-            <p>Here are a few technologies I've been working with recently:</p>
+            <p>Algunos de mis servicios son:</p>
           </div>
 
           <ul className="skills-list">

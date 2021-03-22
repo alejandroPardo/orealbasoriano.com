@@ -51,12 +51,12 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        Although I'm not currently looking for any new opportunities, my inbox is always open.
-        Whether you have a question or just want to say hi, I'll try my best to get back to you!
+        Estoy buscando nuevas oportunidades laborales donde pueda aplicar mis conocimientos de periodismo y marketing.
+        Si te gusta mi perfil y te interesa conocerme, contáctame y nos tomamos un café.
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
-        Say Hello
+        Contáctame
       </a>
     </StyledContactSection>
   );

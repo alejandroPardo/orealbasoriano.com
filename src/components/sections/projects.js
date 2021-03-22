@@ -183,10 +183,10 @@ const Projects = () => {
 
   return (
     <StyledProjectsSection>
-      <h2 ref={revealTitle}>Other Noteworthy Projects</h2>
+      <h2 ref={revealTitle}>Otros proyectos en los que he trabajado</h2>
 
       <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
-        view the archive
+        ver el archivo
       </Link>
 
       <TransitionGroup className="projects-grid">

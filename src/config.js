@@ -1,44 +1,36 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'orealbas@gmail.com',
 
   socialMedia: [
     {
-      name: 'GitHub',
-      url: 'https://github.com/bchiang7',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
-    },
-    {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/orealba',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/orealba/',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
-    },
+      name: 'Star',
+      url: 'https://www.intothefilm.es/',
+    }
   ],
 
   navLinks: [
     {
-      name: 'About',
+      name: 'Sobre mí',
       url: '/#about',
     },
     {
-      name: 'Experience',
+      name: 'Experiencia',
       url: '/#jobs',
     },
     {
-      name: 'Work',
+      name: 'Proyectos',
       url: '/#projects',
     },
     {
-      name: 'Contact',
+      name: 'Contacto',
       url: '/#contact',
     },
   ],
