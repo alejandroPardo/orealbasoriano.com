@@ -132,7 +132,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
   
-  const skills = ['Creación de contenido para editoriales de lifestyle', 'Creación de contenido para redes sociales y blogs', 'Búsqueda de información para la maquetación de revistas', 'Organización y trabajo en equipo', 'Contacto directo con los clientes de diversas marcas', 'Aprendizaje constante en cada trabajo para mejorar día a día'];
+  const skills = ['Búsqueda de información para diferentes tipos de contenidos', 'Creación de contenido para redes sociales y blogs', 'Creación de contenido para editoriales de lifestyle', 'Organización y trabajo en equipo', 'Contacto directo con los clientes de diversas marcas', 'Organización para maquetación de la revista'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>

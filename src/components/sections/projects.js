@@ -181,8 +181,8 @@ const Projects = () => {
   const firstSix = projects.slice(0, GRID_LIMIT);
   const projectsToShow = showMore ? projects : firstSix;
 
-  return (
-    <StyledProjectsSection>
+  return (''
+    /*<StyledProjectsSection>
       <h2 ref={revealTitle}>Otros proyectos en los que he trabajado</h2>
 
       <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
@@ -255,7 +255,7 @@ const Projects = () => {
       <button className="more-button" onClick={() => setShowMore(!showMore)}>
         Show {showMore ? 'Less' : 'More'}
       </button>
-    </StyledProjectsSection>
+    </StyledProjectsSection>*/
   );
 };
 
