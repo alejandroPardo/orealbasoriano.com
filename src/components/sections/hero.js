@@ -49,7 +49,7 @@ const Hero = () => {
 
   const one = <h1>Hola, mi nombre es</h1>;
   const two = <h2 className="big-heading">Orealba Soriano.</h2>;
-  const three = <h3 className="big-heading">Creador de contenido.</h3>;
+  const three = <h3 className="big-heading">Creadora de contenido.</h3>;
   const four = (
     <p>
       Soy periodista audiovisual con estudios en marketing digital y social media. 

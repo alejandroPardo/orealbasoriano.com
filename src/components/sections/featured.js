@@ -256,6 +256,7 @@ const Featured = () => {
         edges {
           node {
             frontmatter {
+              job
               title
               cover {
                 childImageSharp {
@@ -287,19 +288,19 @@ const Featured = () => {
   return (
     <section id="projects">
       <h2 className="numbered-heading" ref={revealTitle}>
-        Algunas cosas destacadas que he hecho
+        Últimos trabajos
       </h2>
 
       <div>
         {featuredProjects &&
           featuredProjects.map(({ node }, i) => {
             const { frontmatter, html } = node;
-            const { external, title, tech, github, cover } = frontmatter;
+            const { external, job, title, tech, github, cover } = frontmatter;
 
             return (
               <StyledProject key={i} ref={el => (revealProjects.current[i] = el)}>
                 <div className="project-content">
-                  <p className="project-overline">Proyecto destacado</p>
+                  <p className="project-overline">{job}</p>
                   <h3 className="project-title">{title}</h3>
                   <div className="project-description" dangerouslySetInnerHTML={{ __html: html }} />
 

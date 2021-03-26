@@ -1,5 +1,6 @@
 ---
 date: '4'
+job: 'Egerie Magazine'
 title: 'Solanes Reus'
 cover: './solanes.png'
 external: 'https://issuu.com/egerie/docs/solanes_5_web'

@@ -1,5 +1,6 @@
 ---
 date: '2'
+job: 'Egerie Magazine'
 title: 'Revista Saphir'
 cover: './saphir.png'
 external: 'https://issuu.com/egerie/docs/saphir_8_web'

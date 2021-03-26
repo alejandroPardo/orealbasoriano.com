@@ -1,5 +1,6 @@
 ---
 date: '1'
+job: 'Egerie Magazine'
 title: 'Revista Abrines'
 cover: './halcyon.png'
 external: 'https://halcyon-theme.netlify.com/'

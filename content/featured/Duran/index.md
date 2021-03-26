@@ -1,5 +1,6 @@
 ---
 date: '3'
+job: 'Egerie Magazine'
 title: 'Revista Durán Joyeros'
 cover: './duran.png'
 external: 'https://issuu.com/egerie/docs/rev_duran_2_web'
