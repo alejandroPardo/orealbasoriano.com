@@ -183,7 +183,7 @@ const Projects = () => {
 
   return (''
     /*<StyledProjectsSection>
-      <h2 ref={revealTitle}>Otros proyectos en los que he trabajado</h2>
+      <h2 ref={revealTitle}>Otros proyectos</h2>
 
       <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
         ver el archivo

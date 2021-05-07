@@ -15,7 +15,7 @@ const GlobalStyle = createGlobalStyle`
     --slate: #2F4858;                                 /* charcoal */
     --light-slate: #1D2C35; /*#FA4C5B;*/              /* gunmetal */
     --lightest-slate: #6B030B;                        /* vinotinto */
-    --white: #e6f1ff;
+    --white: #6B030B;
     --green: #6B030B;                                 /* vinotinto */ 
     --green-tint: rgba(107, 3, 11, 0.1);
 

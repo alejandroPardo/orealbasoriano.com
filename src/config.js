@@ -3,6 +3,10 @@ module.exports = {
 
   socialMedia: [
     {
+      name: 'Behance',
+      url: 'https://www.behance.net/orealbasoriano',
+    },
+    {
       name: 'Twitter',
       url: 'https://twitter.com/orealba',
     },

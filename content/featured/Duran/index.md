@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2'
 job: 'Egerie Magazine'
 title: 'Revista Durán Joyeros'
 cover: './duran.png'
@@ -11,4 +11,4 @@ tech:
 showInProjects: true
 ---
 
-Creación de revista de la joyería Durán, donde se habla de alta relojería y joyería como de lifestyle. Creación de contenido, búsqueda de información, contacto con marcas y clientes, organización en equipo.
+Creación de revista de la joyería Durán, ubicada en las ciudades de Madrid, Sevilla y Valencia. Investigación previa del contenido, reuniones con la joyería, organización y creación de los artículos, entrevistas a diversas personalidades y contacto con casas importantes de relojería. Revisión continua de la maquetación en equipo con la joyería, edición y revisión final con el equipo de diseño.

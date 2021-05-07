@@ -314,8 +314,8 @@ const Featured = () => {
 
                   <div className="project-links">
                     {github && (
-                      <a href={github} aria-label="GitHub Link">
-                        <Icon name="GitHub" />
+                      <a href={github} aria-label="Instagram Link">
+                        <Icon name="Instagram" />
                       </a>
                     )}
                     {external && (

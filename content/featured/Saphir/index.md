@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '1'
 job: 'Egerie Magazine'
 title: 'Revista Saphir'
 cover: './saphir.png'
