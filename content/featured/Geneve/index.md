@@ -1,12 +1,12 @@
 ---
-date: '5'
+date: '6'
 job: 'Egerie Magazine'
 title: 'Geneve Company'
 cover: './genevelogo.png'
 external: 'https://blog.genevecompany.com/author/ore/'
 github: 'https://www.instagram.com/genevecompany/'
 tech:
-  - 
+  -
 showInProjects: true
 ---
 
