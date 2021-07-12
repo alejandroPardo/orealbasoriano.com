@@ -52,8 +52,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">Creadora de contenido.</h3>;
   const four = (
     <p>
-      Soy periodista audiovisual con estudios en marketing digital y social media. 
-      Me especializo en la creación de contenido para diferentes medios on y offline.
+      Soy una periodista soñadora y quiero llevar mi creatividad más allá de los límites de la imaginación, para crear historias únicas que puedan disfrutar los demás
     </p>
   );
   const five = (
