@@ -52,7 +52,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">Creadora de contenido.</h3>;
   const four = (
     <p>
-      Soy una periodista soñadora, y quiero llevar mi creatividad más allá de los límites de la imaginación, para crear historias únicas que puedan disfrutar los demás
+      Soy una periodista soñadora, y quiero llevar mi creatividad más allá de los límites de la imaginación, para crear historias únicas que puedan disfrutar los demás.
     </p>
   );
   const five = (
