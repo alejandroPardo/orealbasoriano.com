@@ -3,7 +3,7 @@ date: '6'
 job: 'Egerie Magazine'
 title: 'Geneve Company'
 cover: './genevelogo.png'
-external: 'https://blog.genevecompany.com/author/ore/'
+external: 'https://www.facebook.com/genevecompany'
 github: 'https://www.instagram.com/genevecompany/'
 tech:
   -
